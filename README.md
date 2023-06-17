@@ -6,7 +6,7 @@
 
 Я тестировщик. Здесь можно ознакомиться с моими работами. Цель - найти проект, который буду развивать и развиваться сам. 
 
-- 📫 Как со мной связаться: [![Yandex mail](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](mailto:kebwork@yandex.ru) [img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue"/](https://t.me/Evgeny_27)
+- 📫 Как со мной связаться: [![Yandex mail](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](mailto:kebwork@yandex.ru)
 
 ---
 
